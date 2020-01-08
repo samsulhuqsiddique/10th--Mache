@@ -1,0 +1,427 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.nav-head{
+	background-image: url(../img/banner12.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0px;
+	display: block;
+}
+
+
+.head-one{
+	 color: white;
+    text-align: center;
+    margin-left: 141px;
+}
+.head-one h1{
+	   margin: 150px 0px 25px 0px;
+
+}
+.head-one span {
+    border-bottom: 3px solid #ED145B;
+    display: block;
+    width: 286px;
+    margin: 0 auto;
+}
+.head-one p{
+    margin: 30px 0px;
+    font-size: 18px;
+}
+.head-one button {
+    background: #ED145B;
+    border: none;
+    padding: 12px 50px;
+    color: white;
+    font-size: 20px;
+    border-radius: 41px;
+    margin: 20px 0px 50px 0px;
+}
+.free img{
+	    max-width: 100%;
+}
+section {
+	padding: 50px 0px;
+}
+
+.about-content{
+      text-align: center;
+      color: black;
+}
+.about-content p {
+	 margin: 30px 0px;
+    font-size: 18px;
+}
+.about-content span{
+	border-bottom: 3px solid #ED145B;
+    display: block;
+    width: 286px;
+    margin: 0 auto;
+}
+.about-content h2{
+	
+}
+
+.about-pic{
+	    text-align: center;
+    margin-top: 40px;
+}
+.about-pic h4 {
+     color: #ED145B;
+    margin-top: 20px;
+}
+
+.about-pic img{
+	max-width: 100%
+	margin:0 auto;
+}
+.prices {
+	text-align: center;
+
+}
+.prices p{
+ margin: 30px 0px;
+    font-size: 18px;
+}
+.prices h2{
+
+}
+.prices span{
+  border-bottom: 3px solid #ED145B;
+    display: block;
+    width: 286px;
+    margin: 0 auto;
+}
+.card{
+   text-align: center;
+    position: relative;
+}
+.card-top{
+           text-align: center;
+    background: #5A5A5A;
+    color: white;
+    padding: 15px;
+}
+.card-top h3{
+    margin: 0px 7px 5px 0px;
+    font-size: 25px;
+    color:#f4f4f4;
+}
+
+.card-top h3 span{
+    font-size: 18px;
+    margin: 2px;
+}
+.card-top p{
+
+}
+.btn-two {
+   right: 40px;
+    background: #F4F4F4;
+    color: black;
+    padding: 4px 30px;
+    border-radius: 20px;
+    position: absolute;
+    top: 78px;
+    margin: 10px 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.card-bottom{
+    margin-top: 20px;
+    padding: 20px;
+}
+.card-bottom ul{
+
+}
+.card-bottom ul li{
+    text-decoration: none;
+    list-style: none;
+    margin: 10px 0px;
+}
+
+.card-bottom button {
+    background: #ED145B;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+.card-bottom button: hover {
+    background: gray;
+    box-shadow: 1px 1px black;
+    color: black;
+}
+
+.slide-one{
+      background-image: url(../img/bg-one.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 73px 0px;
+}
+.carousel-item .fa {
+ color:pink
+ font-size-25px;
+}
+.carousel-item p {
+    color: white;
+    font-size: 17px;
+    margin: 20px;
+}
+.c-clr{
+    color: red;
+    font-size: 35px;
+}
+.alin{
+    text-align: center;
+}
+.icon-one{
+
+}
+.icon-one p {
+    font-size: 19px;
+}
+
+.icon-one h2{
+font-size: 25px;
+    color: #ED145B;
+}
+.icon-img img {
+    height: 40px;
+    width: 49px;
+    text-align: right;
+}
+.no-padding {
+    padding-left: 40px;
+}
+.community{
+    background: #ED145B;
+}
+
+.community p {
+    color: white;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-left: 32px;
+    word-spacing: 2px;
+}
+
+.community button{
+    padding: 5px 40px;
+    border: none;
+    border-radius: 20px;
+    color: #ED145B;
+    margin: 11px 25px;
+}
+.community span{
+    font-weight: bold;
+}
+.update{
+text-align: center;
+}
+.update h3{
+    
+}
+.update span{
+    border-bottom: 2px solid #ed145b;
+    display: block;
+    width: 150px;
+    margin: 20px auto;
+}
+.update p{
+       margin-bottom: 60px; 
+}
+.shadow{
+       border: 1px solid #80808026;
+    position: relative;
+    background-color: #f4f4f4;
+    overflow: hidden;
+
+}
+
+.update-img{
+
+}
+.shadow img {
+    max-width: 100%;
+}
+.child{
+background: #d01753;
+    position: absolute;
+    top: 0px;
+    height: 241px;
+    width: 348px;
+    opacity: 0;
+    transition: 0.4s ease-in-out;
+}
+
+
+.up-content{
+
+}
+.shadow h4{
+    font-size: 18px;
+    margin: 12px 0px;
+}
+.shadow p {
+    font-size: 15px;
+}
+.fa.fa-search{
+    position: absolute;
+    margin: 113px 167px;
+    color: white;
+    font-size: 40px;
+}
+
+.shadow:hover 
+ .child {
+    opacity: 0.8;
+ }
+
+.drop{
+ text-align: center;
+ }
+ .drop p{
+ color: #ed145b;
+ }
+.drop i{
+    color: #ed145b;
+    margin-bottom: 30px;
+ }
+.back-pic{
+    background-image: url(../img/banner12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 58px 0px;
+}
+.back{
+    text-align: center;
+    margin: 0 auto;
+}
+.back-pic h3 {
+
+}
+.back-pic p {
+
+}
+.back-pic span {
+    border-bottom: 2px solid #ed145b;
+    display: block;
+    width: 150px;
+    margin: 20px auto;
+}
+.btn-back{
+    background: #ED145B;
+    border: none;
+    padding: 6px 30px;
+    color: white;
+    font-size: 16px;
+    border-radius: 41px;
+    margin: 20px 0px 50px 0px;
+}
+
+.pic-share{
+
+}
+.pic-share img{
+max-width: 100%;
+}
+
+.pic-ctn{
+
+}
+.pic-ctn h4{
+    margin-top: 35px;
+}
+.pic-ctn span{
+    border-bottom: 2px solid #ed145b;
+    display: block;
+    width: 150px;
+    margin: 25px 0px;
+}
+.pic-ctn p{
+
+}
+.btn-share {
+    background: #ED145B;
+    border: none;
+    padding: 6px 11px;
+    color: white;
+    font-size: 14px;
+    border-radius: 41px;
+    margin: 20px 0px 50px 0px;
+}
+.foot{
+    background: #2b2b2b;
+    color: white;
+    font-size: 13px;
+}
+.foot-left{
+    text-align: center;
+    margin: 35px 0px;
+}
+.foot-left p {
+
+}
+.foot-right{
+    text-align: center;
+    margin: 35px 0px;
+}
+.foot-right p {
+    display: inline;
+}
+.foot-right img {
+    width: 10%;
+}
+
+@media (min-height: 0px)and (max-width: 500px){
+    .head-one {
+    color: white;
+    text-align: center;
+    margin-left: 0px;
+}
+.head-one h1 {
+    margin: 50px 0px 25px 0px;
+}
+.btn-two {
+    right: 40px;
+    background: #F4F4F4;
+    color: black;
+    padding: 4px 30px;
+    border-radius: 20px;
+    position: absolute;
+    top: 78px;
+    margin: 10px 25px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.no-padding {
+    padding-left: 40px;
+    margin-bottom: 10px;
+}
+.icon-one {
+    text-align: center;
+}
+section {
+    padding: 25px 0px;
+}
+.foot-right {
+    text-align: center;
+    margin: 3px 0px;
+}
+.foot-left {
+    text-align: center;
+    margin: 1px 0px;
+}
+
+
+}
